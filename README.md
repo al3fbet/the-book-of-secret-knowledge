@@ -118,7 +118,7 @@ Only main chapters:
 - **[Shell Tricks](#shell-tricks-toc)**
 - **[Shell Functions](#shell-functions-toc)**
 
-## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
+## &nbsp;The Book of Secret Knowledge (Chapters)
 
 #### CLI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
